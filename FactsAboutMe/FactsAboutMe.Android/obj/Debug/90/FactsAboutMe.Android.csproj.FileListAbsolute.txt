@@ -469,3 +469,11 @@ C:\Users\coolc\Desktop\coding stuff\Mobile\FactsAboutMe\FactsAboutMe\FactsAboutM
 C:\Users\coolc\Desktop\coding stuff\Mobile\FactsAboutMe\FactsAboutMe\FactsAboutMe.Android\obj\Debug\90\res\drawable\nature.png
 C:\Users\coolc\Desktop\coding stuff\Mobile\FactsAboutMe\FactsAboutMe\FactsAboutMe.Android\obj\Debug\90\res\drawable\alfredo.jpeg
 C:\Users\coolc\Desktop\coding stuff\Mobile\FactsAboutMe\FactsAboutMe\FactsAboutMe.Android\obj\Debug\90\res\drawable\watermelon.jpg
+C:\Users\coolc\Desktop\coding stuff\Mobile\FactsAboutMe\FactsAboutMe\FactsAboutMe.Android\obj\Debug\90\android\assets\SQLite-net.dll
+C:\Users\coolc\Desktop\coding stuff\Mobile\FactsAboutMe\FactsAboutMe\FactsAboutMe.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_v2.dll
+C:\Users\coolc\Desktop\coding stuff\Mobile\FactsAboutMe\FactsAboutMe\FactsAboutMe.Android\obj\Debug\90\android\assets\SQLitePCLRaw.core.dll
+C:\Users\coolc\Desktop\coding stuff\Mobile\FactsAboutMe\FactsAboutMe\FactsAboutMe.Android\obj\Debug\90\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
+C:\Users\coolc\Desktop\coding stuff\Mobile\FactsAboutMe\FactsAboutMe\FactsAboutMe.Android\obj\Debug\90\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\coolc\Desktop\coding stuff\Mobile\FactsAboutMe\FactsAboutMe\FactsAboutMe.Android\obj\Debug\90\android\assets\System.Buffers.dll
+C:\Users\coolc\Desktop\coding stuff\Mobile\FactsAboutMe\FactsAboutMe\FactsAboutMe.Android\obj\Debug\90\android\assets\System.Memory.dll
+C:\Users\coolc\Desktop\coding stuff\Mobile\FactsAboutMe\FactsAboutMe\FactsAboutMe.Android\obj\Debug\90\android\assets\System.Runtime.CompilerServices.Unsafe.dll

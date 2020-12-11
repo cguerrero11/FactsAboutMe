@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
+using FactsAboutMe.Models;
 
 namespace FactsAboutMe
 {
@@ -29,7 +30,7 @@ namespace FactsAboutMe
             {
                 return;
             }
-            ChrisFactData fact = (ChrisFactData)e.SelectedItem;
+            ChrisFact fact = (ChrisFact)e.SelectedItem;
             DisplayAlert("The Fact", fact.TheFact, "Ok");
         }
     }

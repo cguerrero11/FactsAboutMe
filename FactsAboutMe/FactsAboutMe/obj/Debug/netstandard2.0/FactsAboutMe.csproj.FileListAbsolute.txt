@@ -10,3 +10,5 @@ C:\Users\coolc\Desktop\coding stuff\Mobile\FactsAboutMe\FactsAboutMe\FactsAboutM
 C:\Users\coolc\Desktop\coding stuff\Mobile\FactsAboutMe\FactsAboutMe\FactsAboutMe\obj\Debug\netstandard2.0\FactsAboutMe.pdb
 C:\Users\coolc\Desktop\coding stuff\Mobile\FactsAboutMe\FactsAboutMe\FactsAboutMe\obj\Debug\netstandard2.0\FactsAboutMe.csprojAssemblyReference.cache
 C:\Users\coolc\Desktop\coding stuff\Mobile\FactsAboutMe\FactsAboutMe\FactsAboutMe\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\coolc\Desktop\coding stuff\Mobile\FactsAboutMe\FactsAboutMe\FactsAboutMe\obj\Debug\netstandard2.0\FactsAboutMe.csproj.CoreCompileInputs.cache
+C:\Users\coolc\Desktop\coding stuff\Mobile\FactsAboutMe\FactsAboutMe\FactsAboutMe\obj\Debug\netstandard2.0\XamlC.stamp

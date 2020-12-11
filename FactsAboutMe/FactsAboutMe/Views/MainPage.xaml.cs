@@ -17,7 +17,12 @@ namespace FactsAboutMe
         {
             InitializeComponent();
         }
+        protected override async void OnAppearing()
+        {
+            base.OnAppearing();
 
+            listView.ItemsSource = await App.Database.GetItemsAsync();
+        }
         void OnSelection(object sender, SelectedItemChangedEventArgs e)
         {
             if (e.SelectedItem == null)
